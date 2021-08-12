@@ -1,0 +1,11 @@
+Temp/
+Packages/
+Logs/
+Library/
+# ignore listed filetypes
+*.json
+*.tmp
+*.log
+# dont ignore
+!*.meta
+!Assets/
